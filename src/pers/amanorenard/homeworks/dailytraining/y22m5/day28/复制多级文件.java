@@ -4,7 +4,7 @@ import java.io.*;
 
 class 复制多级文件 extends Simpl.Chinese{
     public static void main(String[] args) {
-        System.out.println(copyFiles("I:\\JAVATEST\\TEST1\\666\\复制练习\\output1","I:\\JAVATEST\\TEST1\\666\\复制练习\\output2"));
+        System.out.println(copyFiles("666\\复制练习\\output1","666\\复制练习\\output2"));
     }
 
     public static boolean copyFiles(String src, String tgt) {
