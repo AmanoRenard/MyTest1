@@ -1,13 +1,13 @@
 package pers.amanorenard.homeworks.dailytraining.y22m5.day28;
 
-import java.io.BufferedReader;
-import java.io.BufferedWriter;
-import java.io.FileReader;
-import java.io.FileWriter;
+import java.io.*;
 import java.util.ArrayList;
 
 class 文件读写对象 extends Simpl.Chinese {
     public static void main(String[] args) {
+
+
+
         addStu("666\\Students.txt");
         ArrayList<Student> students = listStu("666\\Students.txt");
         if (students != null) {
