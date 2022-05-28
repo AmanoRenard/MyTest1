@@ -1,0 +1,7 @@
+#This is a profile about the game.
+#Sun May 29 00:21:06 CST 2022
+Version=0.0.1
+Difficulty=hard
+Max_Player=16
+Sound=0.5
+Voice=1
