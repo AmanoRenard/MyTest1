@@ -1,6 +1,6 @@
 package pers.amanorenard.homeworks.dailytraining.y22m5.day28;
 
-public class Demo {
+class Demo {
     public static void main(String[] args) {
         System.out.println(spinWords("Hey wollef sroirraw"));
     }

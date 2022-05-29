@@ -3,7 +3,7 @@ package pers.amanorenard.homeworks.dailytraining.y22m5.day28;
 import java.io.*;
 import java.util.Properties;
 
-public class 读写游戏配置文件Properties {
+class 读写游戏配置文件Properties {
     public static void main(String[] args) {
         Properties conf = new Properties();
         conf.setProperty("Version","0.0.1");
