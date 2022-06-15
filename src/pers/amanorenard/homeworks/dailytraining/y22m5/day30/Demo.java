@@ -6,7 +6,7 @@ import java.net.ServerSocket;
 import java.net.Socket;
 import java.util.Scanner;
 
-public class Demo {
+class Demo {
     public static void main(String[] args) {
         //启动
         new Thread(new receiveFile(),"接收").start();

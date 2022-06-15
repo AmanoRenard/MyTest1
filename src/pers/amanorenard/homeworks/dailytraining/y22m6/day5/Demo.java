@@ -2,7 +2,7 @@ package pers.amanorenard.homeworks.dailytraining.y22m6.day5;
 
 import javax.swing.*;
 
-public class Demo {
+class Demo {
     public static void main(String[] args) {
         JFrame frame = new JFrame("测试");
         JPanel panel = new JPanel(null);
