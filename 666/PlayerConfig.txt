@@ -1,0 +1,2 @@
+pers.amanorenard.homeworks.dailytraining.y22m6.Day19.Player
+getName
