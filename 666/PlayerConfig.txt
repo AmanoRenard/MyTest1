@@ -1,2 +1,2 @@
-pers.amanorenard.homeworks.dailytraining.y22m6.Day19.Player
+pers.amanorenard.homeworks.dailytraining.y22m6.day19.Player
 getName

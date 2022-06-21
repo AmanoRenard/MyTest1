@@ -1,8 +1,7 @@
-package pers.amanorenard.homeworks.dailytraining.y22m6.Day19;
+package pers.amanorenard.homeworks.dailytraining.y22m6.day19;
 
 import java.lang.reflect.*;
 import java.util.ArrayList;
-import java.util.Arrays;
 
 public class Demo1 {
     public static void main(String[] args) throws ClassNotFoundException, NoSuchMethodException, InvocationTargetException, IllegalAccessException {

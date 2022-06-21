@@ -1,4 +1,4 @@
-package pers.amanorenard.homeworks.dailytraining.y22m6.Day19;
+package pers.amanorenard.homeworks.dailytraining.y22m6.day19;
 
 import java.io.*;
 import java.lang.reflect.Method;

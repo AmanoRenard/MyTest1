@@ -1,4 +1,4 @@
-package pers.amanorenard.homeworks.dailytraining.y22m6.Day19;
+package pers.amanorenard.homeworks.dailytraining.y22m6.day19;
 
 public class Player {
     private String password;
